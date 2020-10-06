@@ -37,16 +37,16 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Split array largest sum](https://leetcode.com/problems/split-array-largest-sum/) (hard)
 * [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/) (hard)
 ### Sliding Window/Two Pointer
-* [Container with most water](https://leetcode.com/problems/container-with-most-water/) (medium)
+* [Container with most water](https://leetcode.com/problems/container-with-most-water/) (medium) ✔️ 
 * [Longest mountain in array](https://leetcode.com/problems/longest-mountain-in-array/) (medium)
-* [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
-* [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
-* [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium)
+* [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium) ✔️ 
+* [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium) ✔️
+* [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium) ✔️
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
 ### Intervals
-* [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium)
+* [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium) ✔️
 * [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
-* [Insert interval](https://leetcode.com/problems/insert-interval/) (hard)
+* [Insert interval](https://leetcode.com/problems/insert-interval/) (hard) ✔️
 ### Heaps/Priority Queues
 * [Maximize sum of array after K negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) (easy)
 * [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
